@@ -1895,7 +1895,7 @@
  [],
  False,
  False,
- 1746774472,
+ 1746784425,
  [('run.exe',
    'C:\\Users\\QUYET\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyInstaller\\bootloader\\Windows-64bit-intel\\run.exe',
    'EXECUTABLE')],
